@@ -37,7 +37,7 @@ Create a `.env` file in the root of the `LoginFlow` project directory. Add the f
 MYSQL_HOST="localhost"
 MYSQL_USER="your-username"
 MYSQL_PASSWORD="your-password"
-MYSQL_DATABASE="loginflow_db"
+MYSQL_DATABASE="database_name"
 SECRET_KEY="your-secret-key"
 ```
 
